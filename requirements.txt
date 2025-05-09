@@ -2,3 +2,8 @@
 fastapi
 uvicorn
 rembg
+fastapi
+uvicorn
+rembg
+onnxruntime==1.16.3
+python-multipart
